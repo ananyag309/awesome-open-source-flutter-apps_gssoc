@@ -56,6 +56,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Virlow Flutter Recorder | [Link](https://github.com/virlow-voice/virlow-flutter-recorder) | An app that transcribes recorded audio and includes a text editor for editing/adding notes. |
 | Taskez | [Link](https://github.com/Davies-K/Taskez) | A productivity mobile application UI kit. |
 | Todoey | [Link](https://github.com/Coffee-Expert/Todoey) | A simple To-do app. |
+| Neumorphic Calculator | [Link](https://github.com/mllrr96/Neumorphic-Calculator) | An elegant and highly customizable calculator app with a beautiful neumorphic design. |
 
 ### Finance
 
@@ -96,6 +97,8 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Meditation | [Link](https://github.com/Re4ch-Jay/Meditation_App) | An app to make you calm, relieved, relaxed and focused. |
 | Habo | [Link](https://github.com/xpavle00/Habo) |  A habit tracker app that helps you create and maintain healthy habits for a better life. |
 | One Second Diary | [Link](https://github.com/KyleKun/one_second_diary) | Minimalist video diary app. |
+| Your Journal | [Link](https://github.com/VinayakHinduja/Your-Journal) | App to write daily journals digitally. |
+| Deep Waste | [Link](https://github.com/sumn2u/deep-waste-app) | Managing waste in fun and easy way with AI. |
 
 ### Business
 
@@ -165,6 +168,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Quards | [Link](https://github.com/jeffsieu/quards) | Solitaire in Flutter. |
 | Darkness Dungeon | [Link](https://github.com/RafaelBarbosatec/darkness_dungeon) | A role playing game. |
 | WordlyPlus | [Link](https://github.com/Carapacik/WordlyPlus) | Guess the WORD in six tries. |
+| Game of Fifteen | [Link](https://github.com/AChep/15puzzle) | The Game of Fifteen or the 15 puzzle app. |
 
 ### Sports
 
@@ -281,6 +285,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Cocola James | [Link](https://github.com/aratheunseen/flutter-cocola-james-game) | An educational game that gives a brief overview of James Webb Space Telescope. |
 | Anti-Cheat Exam App | [Link](https://github.com/prathamesh-mutkure/anti-cheat-exam-app) | App to stop cheating in online exams with AI and ML. |
 | FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
+| Fludemy | [Link](https://github.com/felipecastrosales/fludemy) | Udemy Clone. |
 
 ### Graphics & Design
 
@@ -301,6 +306,9 @@ No projects.
 | Flutter Music Player | [Link](https://github.com/iampawan/Flutter-Music-Player) | Music player with audio plugin to play local music files. |
 | WavyBeats | [Link](https://github.com/AssassinAguilar/WavyBeats) | A music player. |
 | Storify | [Link](https://github.com/gyeongmin-lee/Storify) | Flutter app to add captions to songs in your Spotify playlists. |
+| Music Player | [Link](https://github.com/joec05/pocket-music-player) | Music player app made with Flutter. |
+| Marina.Moda | [Link](https://github.com/sorydima/Marina.Moda-) |  A decentralized music streaming service powered by AI. |
+| AI Radio | [Link](https://github.com/AadrianLeo/AI-Radio-App) | Radio application with an AI assistant to play, stop, search songs by categories. |
 
 ### Utilities
 
@@ -325,6 +333,8 @@ No projects.
 | Water Me                  | [Link](https://github.com/abertschi/water-me) | A simple, open and privacy friendly plant watering reminder for Android. |
 | You | [Link](https://github.com/MDSADABWASIM/You) | The app to check what internet knows about you. |
 | Plant Disease Detector | [Link](https://github.com/root458/Plant-Disease-Detector) | App that detects a plant's disease given a photo of an affected part of the plant. |
+| FlutCrack | [Link](https://github.com/giovanni-iannaccone/FlutCrack) | App to crack hashes by comparing them against a dictionary of words. |
+| Convapp | [Link](https://github.com/maximoospital/Convapp) | A lightweight and multi-platform real-time unit conversion app. |
 
 ### Entertainment
 
@@ -356,6 +366,7 @@ No projects.
 | FlutterNewsApp | [Link](https://github.com/theindianappguy/FlutterNewsApp)| A Flutter news app which utilizes NewsApi Org. |
 | News App Flutter | [Link](https://github.com/j-j-gajjar/FLUTTER_NewsApp) | Live news app with search functionality |
 | Flews | [Link](https://github.com/jbarr21/flews) | A news client displaying top stories from Hacker News, Reddit's r/AndroidDev, Imgur's most viral, and GitHub top Java repos |
+| Hacki | [Link](https://github.com/Livinglist/Hacki) | A feature-rich Hacker News client. |
 
 ### Chat & Messaging
 
@@ -393,6 +404,7 @@ No projects.
 |localsend | [Link](https://github.com/localsend/localsend) | An app to securely share files and messages with nearby devices without requiring an internet connection. |
 | AirDash | [Link](https://github.com/simonbengtsson/airdash) | Transfer photos and files to any device. |
 | NetworkArch | [Link](https://github.com/ivirtex/networkarch-flutter) | Network diagnostic app. |
+| CyBear Jinni  | [Link](https://github.com/CyBear-Jinni/cbj_app) | App to control your smart devices. |
 
 ### Weather
 
@@ -482,6 +494,7 @@ No projects.
 | Auragita | [Link](https://github.com/tushal13/Auragita) | Bhagavad Gita learning app |
 | Bhagavad Gita | [Link](https://github.com/kvmangukiya/bhagavad_gita) | App to study and explore the teachings of Bhagvat Geeta |
 | Inni di Lode | [Link](https://github.com/theFreeman96/inni-di-lode) | A Christian Songbook for Italian Churches. |
+| Librum | [Link](https://github.com/aldrinzigmundv/librum) | A free and open-source Bible verse reference app. |
 
 ### Boilerplate
 
@@ -496,6 +509,7 @@ No projects.
 | Quiz App | [Link](https://github.com/muhammad-fiaz/QuizApp-Flutter) | A simple Quiz Application UI template |
 | Flight search | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search UI template |
 | Boilerplate | [Link](https://github.com/zubairehman/flutter_boilerplate_project) | A boilerplate project created using MobX and Provider. |
+| MVVM app architecture | [Link](https://github.com/DeveloperRahnuma/Flutter-Mvvm-Clean-Setup) | Model–View–ViewModel (MVVM) example. |
 
 ### Others
 
