@@ -120,6 +120,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Blink Comparison | [Link](https://github.com/proninyaroslav/blink-comparison) | Simplifies comparing photos of tamper-evident seals and patterns using your eyes |
 | ente             | [Link](https://github.com/ente-io/ente)                    | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
 | Image Editor | [Link](https://github.com/codenameakshay/image-editor) | Open source image editing app for Android/iOS. |
+| Flutter Photography | [Link](https://github.com/afgprogrammer/Flutter-Photography-Application) | A beautiful and animated Photography Application UI. |
 
 ### Games & Fun
 
@@ -285,6 +286,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Anti-Cheat Exam App | [Link](https://github.com/prathamesh-mutkure/anti-cheat-exam-app) | App to stop cheating in online exams with AI and ML. |
 | FAnki | [Link](https://github.com/wklausing/FAnki) | App designed to help users learn using flashcards. |
 | Fludemy | [Link](https://github.com/felipecastrosales/fludemy) | Udemy Clone. |
+| Cloudmate | [Link](https://github.com/lambiengcode/cloudmate-classroom-flutter) | An open-source online learning platform. |
+| Academic Master | [Link](https://github.com/amitsingh6391/Academic-master) | E-learning app where students can share doubts, chat with peers & find notes. |
+| MatheBuddy | [Link](https://github.com/mathebuddy/mathebuddy) | A gamified learning app for higher math. |
 
 ### Graphics & Design
 
@@ -336,6 +340,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Plant Disease Detector | [Link](https://github.com/root458/Plant-Disease-Detector) | App that detects a plant's disease given a photo of an affected part of the plant. |
 | FlutCrack | [Link](https://github.com/giovanni-iannaccone/FlutCrack) | App to crack hashes by comparing them against a dictionary of words. |
 | Convapp | [Link](https://github.com/maximoospital/Convapp) | A lightweight and multi-platform real-time unit conversion app. |
+| Nyrna | [Link](https://github.com/Merrit/nyrna) | Suspend games and applications. |
 
 ### Entertainment
 
@@ -381,6 +386,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | flutter-chat-demo | [Link](https://github.com/duytq94/flutter-chat-demo) | A chat app made with Flutter and Firebase that supports login with google, and chat functionalities. |
 | Flutter social chat | [Link](https://github.com/alperefesahin/flutter_social_chat) | A social chat app built using Stream, bloc & Firebase |
 | Whatsapp Clone | [Link](https://github.com/YerikAH/whatsapp-clone) | A UI clone of WhatsApp. |
+| Talktive | [Link](https://github.com/gnowoel/talktive) | An anonymous group chat app for safely talking to strangers. |
 
 ### Social Networking
 
@@ -451,7 +457,9 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 
 ### Wearables
 
-No projects.
+| Project | Repo | Description |
+|:--------|:-----|:------------|
+| Live Scores App | [Link](https://github.com/jepbura/Live-Scores-App-V3Live) | See live football and volleyball scores on your smartwatch. |
 
 ### Admin Dashboard
 
@@ -548,3 +556,4 @@ No projects.
 | Type | [Link](https://github.com/jeffsieu/type) | A typing test. |
 | Car Control Dashboard | [Link](https://github.com/Hamad-Anwar/Car-Controller-Getx-Flutter) | A user-friendly car control dashboard to interact with dynamic car controls. |
 | RSA Encryption | [Link](https://github.com/vellt/RSA-Encryption-Flutter) | Encryption based on asymmetric cryptography. |
+| TapAway | [Link](https://github.com/Vaibhav-kesarwani/TapAway-App) | A life-saving mobile application designed to prioritize your safety during emergencies and natural calamities. |
